@@ -7,7 +7,7 @@ export const RESOLUTION_ARR = {
 
 export const SHARE_ID = 1;
 
-export const APP_ID = "<#YOUR APP ID HERE#>";
+export const APP_ID = "6025779f61a240dc81b8b1b5c3b43a43";
 
 // Assign Token to null if you have not enabled app certificate
-export const Token = "<#YOUR TEMP TOKEN HERE#>";
+export const Token = null;
